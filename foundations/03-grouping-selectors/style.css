@@ -1,0 +1,13 @@
+.common {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.first-class {
+    background-color: rgba(14, 1, 1, 0.815);
+    color: #ffffff;
+}
+
+.second-class {
+    background-color: rgba(238, 238, 10, 0.8);
+}
